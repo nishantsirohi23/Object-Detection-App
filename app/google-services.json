@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "624411946406",
+    "project_id": "obdet-63a96",
+    "storage_bucket": "obdet-63a96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624411946406:android:4235dc920feb95a6957367",
+        "android_client_info": {
+          "package_name": "to.nishant.obdet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624411946406-jtauq8kii2ms7jlb9otb20brmsl6n47c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj_A5Emmq27aOznUEdyeOi3bFigvpxjM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624411946406-jtauq8kii2ms7jlb9otb20brmsl6n47c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -51,6 +51,5 @@ Contributions are welcome! Please follow the [contribution guidelines](CONTRIBUT
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
 
-Please customize this template to include specific details about your app, such as how to train or update the object detection models, any special features or considerations, and any other relevant information.
+
